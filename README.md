@@ -244,13 +244,13 @@ We welcome collaboration opportunities, research partnerships, and inquiries abo
 
 ### Contact Information
 
-- **Email**: isurusanju98@gmail.com
-- **Phone**: +94 77 188 6641
+- **Email**: isharamadusanka410@gmail.com
+- **Phone**: +94 76 685 9740
 - **Institution**: Sri Lanka Institute of Information Technology, Malabe, Sri Lanka
 
 ### Project Links
 
-- **GitHub Repository**: [IEMS GitHub](https://github.com/IsuruX98/Intelligent-Eco-Urban-Monitoring-System)
+- **GitHub Repository**: [LexAyuda GitHub](https://github.com/LexAyudha/)
 - **Live Application**: Coming Soon
 
 ## 📜 License
@@ -267,8 +267,8 @@ This project is developed as part of academic research at Sri Lanka Institute of
 
 ---
 
-**IEMS - Intelligent EcoUrban Monitoring System**  
-_Pioneering a Greener, Smarter Urban Future_
+**LexAyudha - AI-Based Personalized Rehabilitation Tool for Dyslexic Adolescents**  
+_Every_child_is_special_
 
 For more information, visit our [project website](http://localhost:3000) or contact our team.
 
