@@ -168,7 +168,7 @@ IEMS-Static/
 - ⏳ **Logbook** - April 2025
 - ⏳ **Final Report** - May 2025
 - ⏳ **Final Presentation & Viva** - May 26, 2025
-
+<!--
 ## 👥 Team
 
 ### Supervisors
@@ -202,7 +202,7 @@ IEMS is built on comprehensive academic research covering:
 - Real-time dynamic adaptation
 - Comprehensive green space forecasting
 - Behavioral change enablement for CO₂ reduction
-
+-->
 ## 🔧 Development
 
 ### Available Scripts
